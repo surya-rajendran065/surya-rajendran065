@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, welcome to my github profile!
+* I'm Surya and I have a profound interest in Computer science 🖥️
+* I'm certified in Java and Python ☕🐍
+* I've learned coding libraries like Pygame, JavaFX, and Flask 📕
+* I've used popular IDE's like Visual Studio, VS Code, and IntelliJ ⭐
+* I also have tried C# and SQL 📑
+
+
 
 <!--
 **surya-rajendran065/surya-rajendran065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
